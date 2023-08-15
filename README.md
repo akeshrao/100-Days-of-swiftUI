@@ -1,7 +1,7 @@
 # 100-Days-of-swiftUI
 100 Days of SwiftUI (Take your time to learn but don't stop learning)
 
-# Day 1 (Quote to self "STRONG BASE MAKES AN STRONG BUILDING")
+# Day 1
 - variables
 - constants
 - strings
