@@ -3,7 +3,7 @@
 
 # Day 1
 - variables:- Once you create a variable using var, you can change it as often as you want without using var again.
- - var favoriteShow = "Orange is the New Black"
+  - var favoriteShow = "Orange is the New Black"
 - constants
 - strings
 - numbers
