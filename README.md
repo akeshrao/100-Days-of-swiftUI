@@ -2,7 +2,8 @@
 100 Days of SwiftUI (Take your time to learn but don't stop learning)
 
 # Day 1
-- variables
+- variables:- var favoriteShow = "Orange is the New Black"
+- - Once you create a variable using var, you can change it as often as you want without using var again.
 - constants
 - strings
 - numbers
