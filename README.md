@@ -17,6 +17,6 @@
 # Day 4
 - type annotations
 # Day 5
-– if
+- If
 - switch
 - ternary operator
