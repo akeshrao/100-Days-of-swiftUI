@@ -2,12 +2,21 @@
 100 Days of SwiftUI (Take your time to learn but don't stop learning)
 
 # Day-1
-variables,constants,strings,and-numbers
+- variables
+- constants
+- strings
+- numbers
 # Day-2
-Booleans, string interpolation, and checkpoint 1
+- Booleans
+- string interpolation
 # Day-3
-- Arrays, dictionaries, sets, and enums
+- Arrays
+- dictionaries
+- sets
+- enums
 # Day 4
-- type annotations and checkpoint 2
+- type annotations
 #Day-5
-– if, switch, and the ternary operator
+– if
+- switch
+- ternary operator
