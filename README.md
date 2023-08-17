@@ -20,3 +20,10 @@
 - If
 - switch
 - ternary operator
+# Day 6
+- For Loop
+- -Whilea loop
+- !! & && conditios
+- Skip & continew
+- Brake & Stop Loop
+- Check point & Test Passed Success
